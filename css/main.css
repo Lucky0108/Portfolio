@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    background-color: #283367;
+    text-align: center;
+}
+
+.ph{
+    font-family: 'Poppins', sans-serif;
+}
+
+.pp{
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+}
+
+.pp a{
+    color: whitesmoke;
+}
+
+.img1{
+    border-radius: 50%;
+    box-shadow: black 4px 6px 6px;
+}
+
+.ps{
+    font-family: 'Roboto', sans-serif;
+}
+
+.sm{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    height: 60px;
+    width: 60px;
+}
+
+.social a{
+    
+    background: #3e4876;
+    margin-left: 5px;
+    width: 40px;
+    color: #fff;
+    display: inline-grid;
+    text-align: center;
+    height: 40px;
+    align-content: center;
+}
